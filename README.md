@@ -1,1 +1,1 @@
-# ict_edu_mn
+Sentiment analysis
